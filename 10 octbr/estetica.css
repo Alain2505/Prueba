@@ -1,0 +1,11 @@
+.carousel-inner {
+    max-height: 500px;
+}
+
+.carousel-item img {
+    height: 500px;
+    object-fit: contain;
+}
+body {
+  font-family: 'lato', sans-serif;
+}
